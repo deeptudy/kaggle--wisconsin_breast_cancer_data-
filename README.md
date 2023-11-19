@@ -2,6 +2,7 @@
 
 ---
 Player2 (김도연)
+
 ![image](https://github.com/deeptudy/kaggle--wisconsin_breast_cancer_data-/assets/103613730/076886cb-b91b-490e-8a25-94f6aabc2bf4)
 
 Delete data below 0.5 based on correlation
